@@ -1,0 +1,104 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\owp_rev1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "3")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (NoModify)
+    (Netlist_TAB "8")
+    (OTHER_Part_Value "{Value}")
+    (OTHER_Netlist_File "OWP_REV1.asc")
+    (OTHER_Netlist_File2 "OWP_REV1.CMP")
+    (OTHER_View_Output "FALSE")
+    (OTHER_View_Output2 "FALSE")
+    (OTHER_Formatter "padspcb.dll")
+    (OTHER_PCB_Footprint "{PCB Footprint}")
+    (OTHER_Switch0 "FALSE")
+    (OTHER_Switch1 "FALSE")
+    (OTHER_Switch2 "FALSE")
+    (OTHER_Switch3 "FALSE")
+    (OTHER_Switch4 "FALSE")
+    (OTHER_Switch5 "FALSE")
+    (OTHER_Switch6 "FALSE"))
+  (Folder "Outputs"
+    (File ".\owp_rev1.asc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (TitleBlockBEC_minimal
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (TitleBlockBEC
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (TP0101K
+      (FullPartName "TP0101K.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 7X2"
+      (FullPartName "HEADER 7X2.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON4X2
+      (FullPartName "CON4X2.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (ADG819
+      (FullPartName "ADG819.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "P:\OpenWaterPower\OWP001\Engineering\Electrical\Schematic\owp_rev1.dsn")
+      (Path "Design Resources"
+         "P:\OpenWaterPower\OWP001\Engineering\Electrical\Schematic\owp_rev1.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "P:\OpenWaterPower\OWP001\Engineering\Electrical\Schematic\owp_rev1.dsn"
+         "SCHEMATIC1" "PAGE12: LED Driver 3"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 704 0 487"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1586 25 624")
+        (Scroll "-103 0")
+        (Zoom "86")
+        (Occurrence "/"))
+      (Path
+         "P:\OPENWATERPOWER\OWP001\ENGINEERING\ELECTRICAL\SCHEMATIC\OWP_REV1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE12: LED Driver 3")))
+  (MPSSessionName "jtruong")
+  (ISPCBBASICLICENSE "false"))

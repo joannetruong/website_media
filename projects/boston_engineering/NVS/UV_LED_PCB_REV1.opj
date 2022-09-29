@@ -1,0 +1,115 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\uv_led_pcb_rev1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Netlist_TAB "8")
+    (OTHER_Part_Value "{Value}")
+    (OTHER_Netlist_File "UV_LED_PCB_REV1.asc")
+    (OTHER_Netlist_File2 "LVDS_ITERFACE_REV1.CMP")
+    (OTHER_View_Output "FALSE")
+    (OTHER_View_Output2 "FALSE")
+    (OTHER_Formatter "padspcb.dll")
+    (OTHER_PCB_Footprint "{PCB Footprint}")
+    (OTHER_Switch0 "FALSE")
+    (OTHER_Switch1 "FALSE")
+    (OTHER_Switch2 "FALSE")
+    (OTHER_Switch3 "FALSE")
+    (OTHER_Switch4 "FALSE")
+    (OTHER_Switch5 "FALSE")
+    (OTHER_Switch6 "FALSE"))
+  (Folder "Outputs"
+    (File ".\uv_led_pcb_rev1.asc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "P:\NAVSEA\NVS005 Sub Antifouling\ENGINEERING\Electrical\Schematic\uv_led_pcb_rev1.dsn")
+      (Path "Design Resources"
+         "P:\NAVSEA\NVS005 Sub Antifouling\ENGINEERING\Electrical\Schematic\uv_led_pcb_rev1.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "P:\NAVSEA\NVS005 Sub Antifouling\ENGINEERING\Electrical\Schematic\uv_led_pcb_rev1.dsn"
+         "SCHEMATIC1" "PAGE02 - UV LEDS"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 663 0 481"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 25 1636 25 549")
+        (Scroll "-346 -3")
+        (Zoom "55")
+        (Occurrence "/"))
+      (Path
+         "P:\NAVSEA\NVS005 SUB ANTIFOULING\ENGINEERING\ELECTRICAL\SCHEMATIC\UV_LED_PCB_REV1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE02 - UV LEDS")))
+  (PartMRUSelector
+    (LTL2X20
+      (FullPartName "LTL2X20.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\ORCAD\ORCAD_16.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PLED9UQ12
+      (FullPartName "PLED9UQ12.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (THERMISTOR
+      (FullPartName "THERMISTOR.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PLED9Q12
+      (FullPartName "PLED9Q12.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (LED_SM21
+      (FullPartName "LED_SM21.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (ADN4664
+      (FullPartName "ADN4664.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (ADN4663
+      (FullPartName "ADN4663.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (CON6
+      (FullPartName "CON6.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (ADuM2200
+      (FullPartName "ADuM2200.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (ADN4651
+      (FullPartName "ADN4651.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_LIBRARY.OLB")
+      (DeviceIndex "0"))
+    (ADUM6000
+      (FullPartName "ADUM6000.Normal")
+      (LibraryName "T:\EE\ORCAD\LIBRARIES\BEC_LIBRARY.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "jtruong")
+  (ISPCBBASICLICENSE "false"))
